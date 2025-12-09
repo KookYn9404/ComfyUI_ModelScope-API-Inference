@@ -33,7 +33,7 @@
 
 ## 使用示例
 
-1. 在ComfyUI中搜索"KOOK魔搭反推"节点
+1. 在ComfyUI中搜索"魔搭API调用反推节点"节点
 2. 连接图片输入
 3. 填写API密钥和自定义提示
 4. 运行节点，获取文本输出
@@ -43,13 +43,14 @@
 支持ModelScope上的视觉语言模型，如：
 - Qwen/Qwen3-VL-8B-Instruct
 - Qwen/Qwen3-VL-72B-Instruct
-- 其他兼容OpenAI Vision API格式的模型
+- ZhipuAI/GLM-4.6V-Flash
+- 等其他兼容OpenAI Vision API格式的模型
 
 ## 获取ModelScope Token
 
 1. 访问 https://www.modelscope.cn/
 2. 登录或注册账号
-3. 进入个人中心 -> API密钥
+3. 进入账号设置 -> 访问令牌
 4. 创建或复制已有密钥
 
 ## 注意事项
@@ -78,3 +79,4 @@ A: 可以，只要模型支持OpenAI Vision API格式即可。
 - 支持自定义API地址和密钥
 
 - 支持自定义提示文本
+
