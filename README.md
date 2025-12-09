@@ -13,10 +13,10 @@
 
 ## 安装方法
 
-导航到您的 ComfyUI 自定义节点目录： cd ComfyUI/custom_nodes
-克隆此仓库： git clone https://github.com/KookYn9404/ComfyUI_ModelScope-API-Inference.git
-重启 ComfyUI
-直接搜索魔搭API就能看到
+-导航到您的 ComfyUI 自定义节点目录： cd ComfyUI/custom_nodes
+-克隆此仓库： git clone https://github.com/KookYn9404/ComfyUI_ModelScope-API-Inference.git
+-重启 ComfyUI
+-直接搜索魔搭API就能找到
 
 ## 参数说明
 
@@ -81,6 +81,7 @@ A: 可以，只要模型支持OpenAI Vision API格式即可。
 - 支持自定义API地址和密钥
 
 - 支持自定义提示文本
+
 
 
 
