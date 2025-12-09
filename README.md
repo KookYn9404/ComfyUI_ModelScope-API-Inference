@@ -33,7 +33,9 @@
 1. 在ComfyUI中搜索"魔搭API调用反推节点"节点
 2. 连接图片输入
 3. 填写API密钥和自定义提示
-4. 运行节点，获取文本输出
+![Effect Preview](ScreenShot_2025-12-09_182931_007.png)  
+![Effect Preview](ScreenShot_2025-12-09_183057_220.png)  
+5. 运行节点，获取文本输出
 
 ## 模型支持
 
@@ -49,6 +51,8 @@
 2. 登录或注册账号
 3. 进入账号设置 -> 访问令牌
 4. 创建或复制已有密钥
+![Effect Preview](ScreenShot_2025-12-09_182739_342.png)
+![Effect Preview](ScreenShot_2025-12-09_182937_964.png)
 
 
 ## 注意事项
@@ -77,6 +81,7 @@ A: 可以，只要模型支持OpenAI Vision API格式即可。
 - 支持自定义API地址和密钥
 
 - 支持自定义提示文本
+
 
 
 
