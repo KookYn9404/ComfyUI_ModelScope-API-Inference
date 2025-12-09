@@ -34,7 +34,8 @@
 2. 连接图片输入
 3. 填写API密钥和自定义提示
 ![Effect Preview](ScreenShot_2025-12-09_182931_007.png)  
-![Effect Preview](ScreenShot_2025-12-09_183057_220.png)  
+![Effect Preview](ScreenShot_2025-12-09_183057_220.png)
+![Effect Preview](ScreenShot_2025-12-09_184856_449.png)  
 5. 运行节点，获取文本输出
 
 ## 模型支持
@@ -81,6 +82,7 @@ A: 可以，只要模型支持OpenAI Vision API格式即可。
 - 支持自定义API地址和密钥
 
 - 支持自定义提示文本
+
 
 
 
